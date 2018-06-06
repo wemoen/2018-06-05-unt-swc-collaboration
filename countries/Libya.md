@@ -1,7 +1,7 @@
 ##Libya
 ## population
 
-## capital
+## capital -- someplace
  
 ## official language
 
